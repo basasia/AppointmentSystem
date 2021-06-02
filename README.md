@@ -25,7 +25,7 @@ The design of this application followed the basic pattern of regular application
 - Clone the folder AppointmentSystem
 - Make sure to install Netbeans
 - Run the jar file \AppointmentSystem\PatientMakeAppointmentPrototype.jar
-- You can login with username and password in the document \AppointmentSystem\How to Run the Prototype.doc   
+- You can login with username and password in the document \AppointmentSystem\How to Run the Prototype.docx   
 - Optionally, the application can be run by using Netbeans then run the file \AppointmentSystem\src\hospmansys\controllers_and_fxml\AppointmentSystem.JAVA
 - Further details on how to run the application can be found in the How to Run the Prototype document 
 
