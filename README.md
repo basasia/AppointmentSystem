@@ -34,3 +34,29 @@ The design of this application followed the basic pattern of regular application
 - Netbeans
 - JAVA
 - SceneBuilder
+
+Login page:
+
+![image](https://user-images.githubusercontent.com/60352487/120794810-e7b81580-c562-11eb-9b84-a043cc8c8b52.png)
+
+Select date page:
+
+![image](https://user-images.githubusercontent.com/60352487/120796891-9198a180-c565-11eb-81f0-9cd0bfe8982d.png)
+
+Make an appointment page:
+
+![image](https://user-images.githubusercontent.com/60352487/120796829-7c237780-c565-11eb-8c5f-3e89c7d7efc2.png)
+
+Confirm an appointment:
+
+![image](https://user-images.githubusercontent.com/60352487/120797078-c3116d00-c565-11eb-9c65-1aa5d75c966a.png)
+
+
+
+
+
+
+
+
+
+
