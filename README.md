@@ -1,5 +1,4 @@
 # AppointmentSystem
-
 Virtual Appointment booking System for a hospital developed by using JAVA
 
 ###Appointment booking system for a hospital
